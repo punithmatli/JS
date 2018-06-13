@@ -1,0 +1,15 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "main": "task.js",
+  "scripts": {
+    "start": "node task"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
